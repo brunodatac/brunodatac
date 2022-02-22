@@ -11,8 +11,7 @@
 </div>
 
 <div style="display: inline_block"><br>
- 
-  
+
    ![Snake animation](https://github.com/brunodatac/brunodatac/blob/output/github-contribution-grid-snake.svg)
   
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
