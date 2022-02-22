@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Olá! Eu sou Bruno Rodrigues  👋 </h1>
+  <h1> Olá! Eu sou Bruno Rodrigues 🙋🏻‍♂️ </h1>
   
 Aprendendo **Python** | Estudando **Ciência de Dados**
   
