@@ -3,9 +3,8 @@
   
 Aprendendo **Python** | Estudando **Ciência de Dados**
   
-<p> <img src="https://komarev.com/ghpvc/?username=brunodatac&label=Profile%20views&color=0e75b6&style=flat" alt="evertonduarteguimaraes" /> </p>
 </div><br>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=brunodatac&label=Profile%20views&color=0e75b6&style=flat" alt="evertonduarteguimaraes" /> </p>
 
 <div align="center">
   <a href="https://github.com/brunodatac">
