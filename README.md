@@ -1,7 +1,7 @@
 <div align="center">
-  <h1> Olá! Eu sou o Bruno Rodrigues  👋 </h1>
+  <h1> Olá! Eu sou Bruno Rodrigues  👋 </h1>
   
-🔭 Aprendendo Python || 🌱 Estudando Ciência de Dados
+Aprendendo **Python** | Estudando **Ciência de Dados**
   
 <p> <img src="https://komarev.com/ghpvc/?username=brunodatac&label=Profile%20views&color=0e75b6&style=flat" alt="evertonduarteguimaraes" /> </p>
 </div><br>
