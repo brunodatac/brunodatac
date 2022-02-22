@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Bruno Rodrigues  👋
+<div align="center">
+🔭 Aprendendo Python || 🌱 Estudando Ciência de Dados
+</div><br>
 
-- 🔭 Aprendendo Python
-- 🌱 Estudando Ciência de Dados
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/brunodatac">
@@ -10,7 +10,7 @@
   <img height="117em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodatac&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center"><br>
 
    ![Snake animation](https://github.com/brunodatac/brunodatac/blob/output/github-contribution-grid-snake.svg)
   
