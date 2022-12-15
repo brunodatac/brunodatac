@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Olá! Eu sou Bruno Rodrigues 🙋🏻‍♂️ </h1>
   
-Futuro **Ciência de Dados**
+Futuro **Ciêntista de Dados**
   
 </div>
 
