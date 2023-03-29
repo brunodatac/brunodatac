@@ -17,7 +17,7 @@ Futuro **Ciêntista de Dados** 🎲
 
   
   <a href = "mailto:brunorb.dev@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/bruno-datascience" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "www.linkedin.com/in/bruno-datascience" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   Fico feliz por você ter encontrado o meu perfil! 👋😁
  
